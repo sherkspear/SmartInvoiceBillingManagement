@@ -1,0 +1,21 @@
+/**SherkInvoice Cascade Style Sheets **/
+
+table, th, td
+{
+border: 1px solid #ccc;
+padding:3px 5px;
+}
+
+td a{
+  padding:3px 5px;
+}
+
+#form-addclient,#form-displayclients{
+  padding:20px 5px;
+}
+
+#developby{
+   text-align:right;
+   font-size:9px;
+   padding:20px 0px 20px 0px;
+}
