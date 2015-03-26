@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Smart Invoice and Billing Management
-Plugin URI: http://www.sherkspear.com/plugins/sc-food-business-calc
+Plugin URI: http://www.sherkspear.com/portfolio-item/smart-invoice-and-billing-management/
 Description: Add your clients database and send them invoices through their emails. Manages invoices status and able you to send them reminders.
 Version: 1.0
 Author: Sherwin Calims
